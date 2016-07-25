@@ -35,7 +35,7 @@ import javax.swing.filechooser.FileFilter;
 
 /**
  * @author Wenping
- *
+ * This class includes the main method for the whole projects.
  */
 class SetupDialog extends JFrame {
 	private static final long serialVersionUID = 1L;
