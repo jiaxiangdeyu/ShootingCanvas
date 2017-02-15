@@ -1,5 +1,5 @@
-# shooting-canvas
-shooting-canvas project
+# Shooting-Canvas
+Shooting-Canvas project
 
 This is a java swing demo for shooting calibration and it can be modified to a simple painting panel easily.
 
